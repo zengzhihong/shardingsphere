@@ -206,24 +206,25 @@
 	.palette-color-4 { fill: #6AB356 !important; }
 	.palette-color-5 { fill: #47A042 !important; }
 	.palette-color-6 { fill: #328533 !important; }
-	.kr { fill: #D9E887; }
+	.palette-color-7 { fill: #1D6A23 !important; }
 	.ua { fill: #D9E887; }
 	.eg { fill: #D9E887; }
-	.ae { fill: #D9E887; }
 	.ca { fill: #D9E887; }
+	.kr { fill: #D9E887; }
+	.ae { fill: #D9E887; }
 	.nl { fill: #B3D778; }
 	.hu { fill: #B3D778; }
-	.at { fill: #8CC569; }
-	.ie { fill: #8CC569; }
 	.br { fill: #8CC569; }
+	.ie { fill: #8CC569; }
+	.at { fill: #8CC569; }
 	.sg { fill: #6AB356; }
 	.us { fill: #6AB356; }
-	.gr { fill: #6AB356; }
-	.lk { fill: #47A042; }
 	.de { fill: #47A042; }
+	.gr { fill: #47A042; }
+	.lk { fill: #328533; }
 	.in { fill: #328533; }
-	.cn { fill: #328533; }
-#legend6 { display: inline !important; }</style>
+	.cn { fill: #1D6A23; }
+#legend7 { display: inline !important; }</style>
 
   <path
      id="ocean"
@@ -6502,7 +6503,7 @@
      class="landxx coastxx us"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="foo">United States of America (10 contributions)
+       id="foo">United States of America (9 contributions)
 </title>
     <path
        id="United_States_Alaska_mainland"
@@ -7514,7 +7515,7 @@
      class="landxx coastxx cn"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title8623">China (19711 contributions)
+       id="title8623">China (19713 contributions)
 </title>
     <g
        id="cnx"
@@ -9527,7 +9528,7 @@
            id="tspan23840"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">%8</tspan></text>
+           y="1542.405">19.7k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9571,7 +9572,7 @@
            id="tspan29690"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1209.9623"
-           y="1542.4438">172</tspan></text>
+           y="1542.4438">73</tspan></text>
       <rect
          class="palette-color-5"
          style="fill:#5599ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9593,7 +9594,7 @@
            id="tspan29698"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">37</tspan></text>
+           y="1542.4438">11</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9615,7 +9616,7 @@
            id="tspan29702"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">10</tspan></text>
+           y="1542.8457">9</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9739,7 +9740,7 @@
            id="tspan101998"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">%8</tspan></text>
+           y="1542.405">19.7k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9785,7 +9786,7 @@
            id="tspan102014"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1209.9623"
-           y="1542.4438">172</tspan></text>
+           y="1542.4438">73</tspan></text>
       <rect
          class="palette-color-5"
          style="fill:#5599ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9808,7 +9809,7 @@
            id="tspan102022"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">37</tspan></text>
+           y="1542.4438">11</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9831,7 +9832,7 @@
            id="tspan102030"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">10</tspan></text>
+           y="1542.8457">9</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9935,7 +9936,7 @@
            id="tspan104696"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">%8</tspan></text>
+           y="1542.405">19.7k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9981,7 +9982,7 @@
            id="tspan104712"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1209.9623"
-           y="1542.4438">172</tspan></text>
+           y="1542.4438">73</tspan></text>
       <rect
          class="palette-color-5"
          style="fill:#5599ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10004,7 +10005,7 @@
            id="tspan104720"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">37</tspan></text>
+           y="1542.4438">11</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10027,7 +10028,7 @@
            id="tspan104728"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">10</tspan></text>
+           y="1542.8457">9</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10154,7 +10155,7 @@
            id="tspan106782"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1209.9623"
-           y="1542.4438">172</tspan></text>
+           y="1542.4438">73</tspan></text>
       <rect
          class="palette-color-5"
          style="fill:#5599ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10177,7 +10178,7 @@
            id="tspan106790"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">37</tspan></text>
+           y="1542.4438">11</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10200,7 +10201,7 @@
            id="tspan106798"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">10</tspan></text>
+           y="1542.8457">9</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10282,7 +10283,7 @@
            id="tspan106828"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">%8</tspan></text>
+           y="1542.444">19.7k</tspan></text>
     </g>
   </g>
   <g
@@ -10304,7 +10305,7 @@
            id="tspan108946"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1209.9623"
-           y="1542.4438">172</tspan></text>
+           y="1542.4438">73</tspan></text>
       <rect
          class="palette-color-5"
          style="fill:#5599ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10327,7 +10328,7 @@
            id="tspan108954"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">37</tspan></text>
+           y="1542.4438">11</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10350,7 +10351,7 @@
            id="tspan108962"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">10</tspan></text>
+           y="1542.8457">9</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10479,7 +10480,7 @@
            id="tspan111664"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">10</tspan></text>
+           y="1542.8457">9</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10563,7 +10564,7 @@
            id="tspan111694"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">172</tspan></text>
+           y="1542.444">73</tspan></text>
     </g>
   </g>
   <g
@@ -10585,7 +10586,7 @@
            id="tspan113644"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">10</tspan></text>
+           y="1542.8457">9</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10669,7 +10670,7 @@
            id="tspan113674"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">37</tspan></text>
+           y="1542.444">11</tspan></text>
     </g>
   </g>
   <g
@@ -10752,7 +10753,7 @@
            id="tspan114444"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">10</tspan></text>
+           y="1542.444">9</tspan></text>
     </g>
   </g>
   <g
