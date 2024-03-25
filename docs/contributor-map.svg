@@ -207,24 +207,23 @@
 	.palette-color-5 { fill: #47A042 !important; }
 	.palette-color-6 { fill: #328533 !important; }
 	.palette-color-7 { fill: #1D6A23 !important; }
-	.de { fill: #328533; }
 	.lk { fill: #328533; }
+	.de { fill: #328533; }
 	.cn { fill: #1D6A23; }
 	.in { fill: #1D6A23; }
-	.ca { fill: #D9E887; }
-	.ae { fill: #D9E887; }
-	.kr { fill: #D9E887; }
 	.ua { fill: #D9E887; }
+	.ca { fill: #D9E887; }
 	.eg { fill: #D9E887; }
-	.nl { fill: #B3D778; }
+	.kr { fill: #D9E887; }
 	.hu { fill: #B3D778; }
+	.nl { fill: #B3D778; }
 	.ie { fill: #8CC569; }
-	.br { fill: #8CC569; }
 	.at { fill: #8CC569; }
+	.br { fill: #8CC569; }
 	.us { fill: #6AB356; }
 	.sg { fill: #6AB356; }
-	.id { fill: #47A042; }
 	.gr { fill: #47A042; }
+	.id { fill: #47A042; }
 #legend7 { display: inline !important; }</style>
 
   <path
@@ -1055,7 +1054,7 @@
      class="landxx coastxx ae"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title6449">United Arab Emirates (1 contributions)
+       id="title6449">United Arab Emirates<!-- ae_contributions -->
 </title>
     <!--UAE-->
     <path
@@ -7516,7 +7515,7 @@
      class="landxx coastxx cn"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title8623">China (20053 contributions)
+       id="title8623">China (20062 contributions)
 </title>
     <g
        id="cnx"
@@ -9529,7 +9528,7 @@
            id="tspan23840"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">20.5k</tspan></text>
+           y="1542.405">20.6k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9741,7 +9740,7 @@
            id="tspan101998"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">20.5k</tspan></text>
+           y="1542.405">20.6k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9937,7 +9936,7 @@
            id="tspan104696"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">20.5k</tspan></text>
+           y="1542.405">20.6k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10284,7 +10283,7 @@
            id="tspan106828"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">20.5k</tspan></text>
+           y="1542.444">20.6k</tspan></text>
     </g>
   </g>
   <g
