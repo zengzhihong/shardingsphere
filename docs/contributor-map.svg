@@ -211,15 +211,15 @@
 	.ua { fill: #D9E887; }
 	.hu { fill: #B3D778; }
 	.nl { fill: #B3D778; }
-	.ru { fill: #B3D778; }
 	.es { fill: #8CC569; }
+	.ru { fill: #8CC569; }
 	.br { fill: #8CC569; }
 	.ie { fill: #8CC569; }
-	.sg { fill: #6AB356; }
-	.at { fill: #6AB356; }
 	.us { fill: #6AB356; }
-	.gr { fill: #47A042; }
+	.at { fill: #6AB356; }
+	.sg { fill: #6AB356; }
 	.id { fill: #47A042; }
+	.gr { fill: #47A042; }
 	.lk { fill: #328533; }
 	.de { fill: #328533; }
 	.cn { fill: #1D6A23; }
@@ -3205,7 +3205,7 @@
      class="landxx coastxx eaeu ru"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title7175">Russian Federation (2 contributions)
+       id="title7175">Russian Federation (5 contributions)
 </title>
     <path
        id="Russia_Kaliningrad"
