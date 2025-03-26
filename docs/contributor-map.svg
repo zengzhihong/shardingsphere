@@ -207,22 +207,22 @@
 	.palette-color-5 { fill: #47A042 !important; }
 	.palette-color-6 { fill: #328533 !important; }
 	.nl { fill: #D9E887; }
-	.pl { fill: #D9E887; }
 	.kr { fill: #D9E887; }
+	.pl { fill: #D9E887; }
 	.es { fill: #B3D778; }
 	.ru { fill: #B3D778; }
 	.hu { fill: #B3D778; }
-	.us { fill: #8CC569; }
-	.ie { fill: #8CC569; }
-	.sg { fill: #8CC569; }
 	.at { fill: #8CC569; }
 	.br { fill: #8CC569; }
+	.ie { fill: #8CC569; }
+	.sg { fill: #8CC569; }
+	.us { fill: #8CC569; }
+	.gr { fill: #6AB356; }
 	.id { fill: #6AB356; }
 	.de { fill: #6AB356; }
-	.gr { fill: #6AB356; }
-	.gb { fill: #47A042; }
 	.in { fill: #47A042; }
 	.lk { fill: #47A042; }
+	.gb { fill: #47A042; }
 	.cn { fill: #328533; }
 #legend6 { display: inline !important; }</style>
 
@@ -342,7 +342,7 @@
      class="landxx coastxx id"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title6209">Indonesia (42 contributions)
+       id="title6209">Indonesia (43 contributions)
 </title>
     <path
        id="Indonesia_New_Guinea"
@@ -7515,7 +7515,7 @@
      class="landxx coastxx cn"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title8623">China (20356 contributions)
+       id="title8623">China (20361 contributions)
 </title>
     <g
        id="cnx"
