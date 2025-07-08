@@ -212,12 +212,12 @@
 	.pl { fill: #B3D778; }
 	.hu { fill: #B3D778; }
 	.ie { fill: #8CC569; }
-	.br { fill: #8CC569; }
-	.us { fill: #8CC569; }
 	.es { fill: #8CC569; }
+	.us { fill: #8CC569; }
+	.br { fill: #8CC569; }
+	.ru { fill: #6AB356; }
 	.gr { fill: #6AB356; }
 	.at { fill: #6AB356; }
-	.ru { fill: #6AB356; }
 	.de { fill: #47A042; }
 	.sg { fill: #47A042; }
 	.gb { fill: #328533; }
