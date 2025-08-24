@@ -208,21 +208,21 @@
 	.palette-color-6 { fill: #328533 !important; }
 	.palette-color-7 { fill: #1D6A23 !important; }
 	.kr { fill: #D9E887; }
+	.pl { fill: #B3D778; }
 	.hu { fill: #B3D778; }
 	.nl { fill: #B3D778; }
-	.pl { fill: #B3D778; }
 	.ie { fill: #8CC569; }
-	.es { fill: #8CC569; }
-	.br { fill: #8CC569; }
 	.us { fill: #8CC569; }
-	.at { fill: #6AB356; }
+	.br { fill: #8CC569; }
+	.es { fill: #8CC569; }
 	.ru { fill: #6AB356; }
-	.sg { fill: #47A042; }
+	.at { fill: #6AB356; }
 	.gr { fill: #47A042; }
-	.id { fill: #328533; }
+	.sg { fill: #47A042; }
 	.de { fill: #328533; }
-	.cn { fill: #1D6A23; }
+	.id { fill: #328533; }
 	.in { fill: #1D6A23; }
+	.cn { fill: #1D6A23; }
 	.gb { fill: #1D6A23; }
 #legend7 { display: inline !important; }</style>
 
