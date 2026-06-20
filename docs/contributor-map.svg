@@ -213,13 +213,13 @@
 	.sg { fill: #47A042; }
 	.id { fill: #328533; }
 	.de { fill: #328533; }
-	.ca { fill: #1D6A23; }
 	.cn { fill: #1D6A23; }
+	.ca { fill: #1D6A23; }
 	.in { fill: #1D6A23; }
-	.pl { fill: #D9E887; }
-	.gb { fill: #D9E887; }
 	.au { fill: #D9E887; }
 	.nl { fill: #D9E887; }
+	.gb { fill: #D9E887; }
+	.pl { fill: #D9E887; }
 	.es { fill: #B3D778; }
 	.hu { fill: #B3D778; }
 	.at { fill: #8CC569; }
