@@ -210,8 +210,8 @@
 	.ru { fill: #B3D778; }
 	.es { fill: #B3D778; }
 	.hu { fill: #B3D778; }
-	.at { fill: #8CC569; }
 	.ie { fill: #8CC569; }
+	.at { fill: #8CC569; }
 	.br { fill: #8CC569; }
 	.us { fill: #6AB356; }
 	.gr { fill: #6AB356; }
@@ -222,9 +222,9 @@
 	.cn { fill: #1D6A23; }
 	.in { fill: #1D6A23; }
 	.nl { fill: #D9E887; }
-	.pl { fill: #D9E887; }
 	.gb { fill: #D9E887; }
 	.au { fill: #D9E887; }
+	.pl { fill: #D9E887; }
 #legend7 { display: inline !important; }</style>
 
   <path
